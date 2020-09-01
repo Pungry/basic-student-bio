@@ -15,6 +15,7 @@ h1 {
     font-size: 28px;
     text-align: center;
     padding: 10px;
+    margin: 10px;
 }
 
 h2 {
@@ -36,7 +37,10 @@ h2 {
     float: left;
     width: 30%;
     line-height: 18px;
-    color: #d21034;
+}
+
+a {
+    color: red;
 }
 
 #bio-image {
